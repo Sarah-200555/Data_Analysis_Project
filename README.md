@@ -1,2 +1,2 @@
-# Ecommerce-dataset
-E-commerce analytics project using SQL, Power BI &amp; Tableau
+# Data_Analysis
+Analysis on E-commerce dataset from kaggle using SQL, Power BI &amp; Tableau
